@@ -1,0 +1,10 @@
+Task_Name,Category,Start_Date,End_Date,Start_Time,End_Time,Status
+Gym,Health,16/05/2026 (Sat),16/05/2026 (Sat),11:00 AM,11:30 AM,Completed
+learn python,Study,16/05/2026 (Sat),16/05/2026 (Sat),11:30 AM,12:00 AM,Completed
+learn SQL,Study,16/05/2026 (Sat),16/05/2026 (Sat),12:00 PM,12:30 PM,Completed
+Rest ,Study,16/05/2026 (Sat),16/05/2026 (Sat),12:30 PM,01:00 PM,Completed
+After noon Sleep ,Personal,16/05/2026 (Sat),16/05/2026 (Sat),01:45 PM,01:50 PM,Completed
+Work on project,Personal,16/05/2026 (Sat),16/05/2026 (Sat),08:00 PM,11:15 PM,Completed
+wake up at 6am,Other,16/05/2026 (Sat),16/05/2026 (Sat),12:00 PM,06:00 AM,Completed
+Lunch,other,17/05/2026 (Sun),17/05/2026 (Sun),01:00 PM,01:30 PM,Pending
+Work on personal project,Personal,20/05/2026 (Wed),20/05/2026 (Wed),06:11 AM,06:15 AM,Pending
